@@ -1,3 +1,6 @@
+# Reading files:  Python read command - read()
+# From a text file, a CSV file, or an HTML file.
+
 # Open & Close
 file = open('08 FileReading Open _ 0914.txt', 'r')
 print(file.read())
