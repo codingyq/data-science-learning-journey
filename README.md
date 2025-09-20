@@ -1,7 +1,15 @@
-# Data Science Learning Journey 📊
+# Data Science Practice Lab 📊
 
 **Last updated:** 2025-09-20 (UTC+8)  
 Tracking my progress in **Python, pandas, and data science** via FreeCodeCamp, Kaggle, and mini projects.
+
+---
+
+## 📂 Folders
+
+- `freecodecamp-python/` — notebooks / scripts / modules
+- `kaggle-pandas/` - Kaggle Pandas course work (exercises)
+- `logs/` — weekly logs (ISO week, e.g. `2025-W38.md`)
 
 ---
 
@@ -12,19 +20,15 @@ Tracking my progress in **Python, pandas, and data science** via FreeCodeCamp, K
 
 ---
 
-## 📂 Structure
-
-- `freecodecamp-python/`
-  - `notebooks/` — Jupyter notebooks for each lesson
-  - `samples/` — small demo files
-- `kaggle-pandas/`
-  - `notebooks/` — Kaggle Pandas course work (exercises)
-
----
-
 ## ✅ Progress
 
-### FreeCodeCamp — Python Refresher
+### FreeCodeCamp — Python Refresher 📝
+contains my practice notebooks following freeCodeCamp’s 4.5-hour tutorial from the
+[freeCodeCamp 4.5-hour Python refresher course](https://www.youtube.com/watch?v=rfscVS0vtbw).
+Revisiting Python fundamentals while keeping a clean record of practice code.
+
+> Open the folder: [`freecodecamp-python/`](./freecodecamp-python/)
+
 **Notebooks**
 - [x] 01 Basic Calculator & Mad Libs  
 - [x] 02 Tips, Lists, Tuples  
@@ -49,19 +53,10 @@ Tracking my progress in **Python, pandas, and data science** via FreeCodeCamp, K
 
 ---
 
-## 📝 FreeCodeCamp Python Refresher Notes
-Step-by-step Python refresh: practice notebooks following freeCodeCamp’s 4.5-hour tutorial.  
-This section contains my practice notebooks from the
-[freeCodeCamp 4.5-hour Python refresher course](https://www.youtube.com/watch?v=rfscVS0vtbw).
-
-**Contents**
-- Practice notebooks with clean notes and exercises  
-- Step-by-step Python concepts: basics, functions, loops, OOP, and more  
-
-**Goal**
-Revisiting Python fundamentals while keeping a clean record of practice code.
-
-> Open the folder: [`freecodecamp-python/`](./freecodecamp-python/)
+## 🗒️ How I log (weekly)
+- Files in `./logs/` named `YYYY-Www.md` (ISO week), e.g. `2025-W38.md`
+- Each log covers: Focus / Time / Done / Learned / Issues / Next / Artifacts
+- [Logs (Weekly)](./logs/)
 
 ---
 
