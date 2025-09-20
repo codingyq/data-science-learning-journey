@@ -21,7 +21,7 @@
 
 # Objects:
     # (Remember: class - an overall template. It defines what a Student is; Object is an actual student with actual information)
-from Student import Student # from the student FILE import the student CLASS - same Student. but refers differently
+from student import Student # from the student FILE import the student CLASS - same Student. but refers differently
 
 student1 = Student("Jim", "Business",3.1, False) # saying I want to create a student object
 
@@ -33,5 +33,5 @@ student2 = Student("Pam", "Art",2.5, True)
 print(student2.gpa)
 
 
-# To sum up what We've did in 11 Classes & Objects + Student.py:
+# To sum up what We've did in 11 Classes & Objects + student.py:
     # we created a student data type and we created student objects, and now we're able to represent a student inside our program

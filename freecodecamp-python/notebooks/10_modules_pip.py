@@ -7,7 +7,7 @@
                # There are also third pary python module: key word "python module for doing X"
   # Import a python file to access its variables and functions
 
-import Useful_Tools
+import useful_tools
 
 print(Useful_Tools.roll_dice(10))
 
